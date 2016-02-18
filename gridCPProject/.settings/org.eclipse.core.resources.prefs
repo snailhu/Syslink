@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/java/GridCP/core/modelMeta/flowModelMeta/FlowComponentMeta.java=UTF-8
+encoding//src/main/java/GridCP/core/modelMeta/flowModelMeta/FlowComponentVariableMeta.java=UTF-8
+encoding//src/main/java/GridCP/core/modelMeta/flowModelMeta/FlowModelMeta.java=UTF-8
+encoding//src/main/java/GridCP/core/modelMeta/modellicaModelMeta/ModelicaComponentVariableMeta.java=UTF-8
+encoding//src/main/java/GridCP/core/util/ParseXMLUtil.java=UTF-8
+encoding//src/main/java/GridCP/core/util/flowUtil/ParseFlowXMLUtil.java=UTF-8
+encoding//src/main/java/GridCP/core/util/modelicaUtil/ParseModelicaXMLUtil.java=UTF-8
+encoding//src/main/resources=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/basic_css.jsp=UTF-8
+encoding//src/test/java=UTF-8
+encoding/<project>=UTF-8
